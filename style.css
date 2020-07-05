@@ -1,0 +1,53 @@
+h1 {
+    font-family: "Frank Ruhl Libre";
+    margin: 20px;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+body {
+    background-image: url('https://www.publicdomainpictures.net/pictures/170000/velka/grunge-background-14635619239LT.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.container {
+    width: 2048px;
+    position: relative;
+}
+
+/* .img-profile, .bio {
+    width: 100%;
+} */
+
+.img-profile {
+    margin: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 50%;
+}
+
+.bio {
+    font-size: 20px;
+    font-family: arial;
+    position: absolute;
+    background-color: white;
+}
+
+/* .container {
+    max-width: 600px;
+}
+
+@media screen and (max-width: 768px) {
+
+    .container {
+        width: 600px;
+    }
+
+    .img-profile, .bio {
+        width: 100%
+    }
+} */
