@@ -1,5 +1,5 @@
 h1 {
-    font-family: "Frank Ruhl Libre";
+    font-family: "Lato", sans-serif;
     margin: 20px;
     text-align: center;
     color: white;
@@ -7,9 +7,13 @@ h1 {
 }
 
 body {
-    background-image: url('https://www.publicdomainpictures.net/pictures/170000/velka/grunge-background-14635619239LT.jpg');
+    /* background-image: url('https://www.publicdomainpictures.net/pictures/170000/velka/grunge-background-14635619239LT.jpg');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover; */
+
+    font-family: 'Lato', sans-serif;
+    background: #e2dedb;
+    color: #b3aca7;
 
 }
 
@@ -128,11 +132,11 @@ input:hover:focus::-ms-placeholder, textarea:hover::focus:-ms-placeholder {
   color: #cbc6c1;
 }
 
-body {
+/* body {
   font-family: 'Lato', sans-serif;
   background: #e2dedb;
   color: #b3aca7;
-}
+} */
 
 header {
   position: relative;
