@@ -20,8 +20,8 @@ body {
 .container {
     width: 2048px;
     position: relative;
-    border-color: red;
-    border-style: solid;
+    /* border-color: red;
+    border-style: solid; */
 }
 
 /* .img-profile, .bio {
