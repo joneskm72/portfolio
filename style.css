@@ -17,14 +17,6 @@ body {
 
 }
 
-.bio-container {
-    position: relative;
-}
-
-/* .img-profile, .bio {
-    width: 100%;
-} */
-
 .img-profile {
     margin: 5px;
     display: block;
@@ -51,12 +43,6 @@ p {
 a {
     color: white
 }
-
-  .tab {
-    font-size: 15px;
-    color: white;
-    font-family: 'Lato', sans-serif;
-  }
 
   
 
