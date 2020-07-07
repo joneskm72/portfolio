@@ -14,7 +14,6 @@ body {
     font-family: 'Lato', sans-serif;
     background: #e2dedb;
     color: #b3aca7;
-
 }
 
 .img-portfolio {
@@ -22,23 +21,11 @@ body {
     border-radius: 15px;
     padding: 10px;
     width: 100%;
-
-    /* margin: 5px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 80%; */
-}
-
-.img-portfolio-box {
-    vertical-align: middle;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .img-portfolio:hover {
     transform: scaleX(-1);
-  }
+}
 
 .img-profile {
     margin: 5px;
@@ -48,7 +35,7 @@ body {
     max-width: 80%;
 }
 
-.card-img-top {
+.card-center {
     margin-left: auto;
     margin-right: auto;
 }
