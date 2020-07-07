@@ -62,20 +62,7 @@ a {
 
   
 
-/* .container {
-    max-width: 600px;
-}
-
-@media screen and (max-width: 768px) {
-
-    .container {
-        width: 600px;
-    }
-
-    .img-profile, .bio {
-        width: 100%
-    }
-} */
+@media screen and (max-width: 600px)
 
 .company-info {
     text-align: center;
