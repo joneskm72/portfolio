@@ -19,13 +19,13 @@ body {
 
 .img-portfolio {
     border: 1px solid #ccc;
-    border-radius: 15px;
+    /* border-radius: 15px; */
     padding: 10px;
     width: 100%;
 }
 
-.img-portfolio:hover {
-    transform: scaleX(-1);
+.card-text {
+  text-align: center;
 }
 
 .img-profile {
