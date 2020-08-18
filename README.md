@@ -1,4 +1,8 @@
-#Portfolio
+# Portfolio
+
+About: An application containing a section about me, a section with a contact form through which I may be contacted, and a portfolio page with hyperlinked pictures to several of my GitHub repositories. Utilizes HTML and CSS.
+
+Technologies: HTML and CSS
 
 <img src="Assets/Images/about.png" width="400">
 
